@@ -7,3 +7,12 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 ##Answer: 233168
 The script can be found in the assignment01.py file.
+
+##Package Installation Screenshot: Tidyverse
+![Tidyverse Installation Screenshot](./package-install-screenshot.png)
+
+##Internet meme that I like 
+There has been this baby Thai hippo named "Moo Deng" (translated to Chubby Pig) that's been going viral on the internet right now, and I hold so much affection for him 
+![Moo Deng meme](https://i.chzbgr.com/full/10407214848/hF9F43673/inexplicably-moist-at-all-times-slightly-blurry-most-photos-probably-screaming-or-sleeping-round) 
+
+
