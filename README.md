@@ -1,8 +1,13 @@
 # Assignment 1
 
+# About Me 
+I'm Belinda, a first year in the HDS Master's program. 🙂 I'm taking this course as part of the curriculum, but I'm genuinely so excited to learn the material outlined in the syllabus. I've self-taught myself Git, leetcode, web scraping, etc so I'm looking forward to learning these topics in a formal setting. I am most interested in learning the ML topics to supplement my interest in medical image segmentation.
+
+
 ## Python Installation 
 - [Python Official Website](https://www.python.org/)
-##Question
+
+## Assignment 1 Question
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get (3, 5, 6, 9). The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
 Answer: 233168
 The script can be found in the assignment01.py file.
