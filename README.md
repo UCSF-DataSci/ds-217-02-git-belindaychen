@@ -1,7 +1,7 @@
 # Assignment 1
 
 # About Me 
-I'm Belinda, a first year in the HDS Master's program. 🙂 I'm taking this course as part of the curriculum, but I'm genuinely so excited to learn the material outlined in the syllabus. I've self-taught myself Git, leetcode, web scraping, etc so I'm looking forward to learning these topics in a formal setting. I am most interested in learning the ML topics to supplement my interest in medical image segmentation.
+I'm Belinda, a first year in the HDS Master's program. 🙂 I graduated from UC Berkeley with a Chemical Biology degree (+ public health and data science minors) in May 2024, and hope to pursue a PhD following the program. I've self-taught myself Git, leetcode, web scraping, etc so I'm looking forward to learning these topics in a formal setting. I am most interested in learning the ML topics to supplement my interest in medical image segmentation.
 
 
 ## Python Installation 
